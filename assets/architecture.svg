@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="420" viewBox="0 0 1120 420" role="img" aria-labelledby="title desc">
+  <title id="title">SIGNAL system overview</title>
+  <desc id="desc">Implemented foundations: approved seeds and discovery, source collection, immutable evidence, normalization, and extraction evaluation. Planned layers: canonical workflows, deterministic scoring, and opportunity publication.</desc>
+  <rect width="1120" height="420" rx="16" fill="#f2f5f1"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="40" y="45" font-size="16" font-weight="700" fill="#243b32" letter-spacing="1">EVIDENCE FOUNDATIONS</text>
+    <text x="1080" y="45" text-anchor="end" font-size="14" fill="#566b5e">Implemented in source · validation still required</text>
+    <g fill="#e1eae2" stroke="#a8c1b1">
+      <rect x="40" y="76" width="185" height="80" rx="9"/>
+      <rect x="254" y="76" width="185" height="80" rx="9"/>
+      <rect x="468" y="76" width="185" height="80" rx="9"/>
+      <rect x="682" y="76" width="185" height="80" rx="9"/>
+      <rect x="896" y="76" width="184" height="80" rx="9"/>
+    </g>
+    <g fill="#243b32" text-anchor="middle" font-size="16">
+      <text x="132" y="109">Approved seeds</text><text x="132" y="133">&amp; discovery</text>
+      <text x="346" y="109">Greenhouse</text><text x="346" y="133">&amp; Lever collection</text>
+      <text x="560" y="109">Immutable</text><text x="560" y="133">raw evidence</text>
+      <text x="774" y="109">Normalization</text><text x="774" y="133">&amp; occupation map</text>
+      <text x="988" y="109">Extraction &amp;</text><text x="988" y="133">evaluation tooling</text>
+    </g>
+    <g fill="#566b5e" font-size="21" text-anchor="middle">
+      <text x="240" y="123">→</text><text x="454" y="123">→</text><text x="668" y="123">→</text><text x="882" y="123">→</text>
+    </g>
+    <path d="M40 197H1080" stroke="#ccd7ce"/>
+    <text x="40" y="241" font-size="16" font-weight="700" fill="#243b32" letter-spacing="1">OPPORTUNITY LAYERS</text>
+    <text x="1080" y="241" text-anchor="end" font-size="14" fill="#566b5e">Planned · not a live production pipeline</text>
+    <g fill="#ffffff" stroke="#8eaa99" stroke-dasharray="5 4">
+      <rect x="40" y="269" width="314" height="80" rx="9"/>
+      <rect x="403" y="269" width="314" height="80" rx="9"/>
+      <rect x="766" y="269" width="314" height="80" rx="9"/>
+    </g>
+    <g fill="#243b32" text-anchor="middle" font-size="17">
+      <text x="197" y="303">Canonical workflow</text><text x="197" y="328">retrieval &amp; matching</text>
+      <text x="560" y="303">Deterministic scoring</text><text x="560" y="328">&amp; evidence aggregation</text>
+      <text x="923" y="303">Opportunity publication</text><text x="923" y="328">&amp; Buyer Match</text>
+    </g>
+    <g fill="#566b5e" font-size="22" text-anchor="middle"><text x="378" y="316">→</text><text x="742" y="316">→</text></g>
+    <text x="40" y="389" font-size="14" fill="#566b5e">LLM extracts meaning. Code calculates truth. Every publishable claim needs evidence.</text>
+  </g>
+</svg>

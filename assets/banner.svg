@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-labelledby="title desc">
+  <title id="title">SIGNAL</title>
+  <desc id="desc">Evidence-first automation intelligence. Product in development. A forest-green banner with restrained evidence-path motifs.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#12251f"/><stop offset="1" stop-color="#243b32"/></linearGradient>
+  </defs>
+  <rect width="1280" height="280" rx="16" fill="url(#bg)"/>
+  <g fill="none" stroke="#8eaa99" stroke-width="1.5" opacity=".35">
+    <path d="M790 55H890Q914 55 930 76L975 128Q988 146 1010 146H1280"/>
+    <path d="M760 140H858Q880 140 896 119L930 76Q945 56 970 56H1160"/>
+    <path d="M790 223H900Q925 223 941 202L977 157Q993 137 1018 137H1280"/>
+    <path d="M910 260H1070Q1094 260 1110 240L1157 179Q1174 160 1197 160H1280"/>
+  </g>
+  <g fill="#20392d" stroke="#a8c1b1" stroke-width="1.5" opacity=".8">
+    <circle cx="890" cy="55" r="5"/><circle cx="1010" cy="146" r="5"/><circle cx="900" cy="223" r="5"/><circle cx="1160" cy="56" r="5"/>
+  </g>
+  <rect x="64" y="48" width="38" height="3" rx="1.5" fill="#a8c1b1"/>
+  <text x="64" y="128" fill="#f2f5f1" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="7">SIGNAL</text>
+  <text x="66" y="174" fill="#bdd0c2" font-family="Arial, Helvetica, sans-serif" font-size="24">Evidence-first automation intelligence</text>
+  <text x="66" y="231" fill="#a8c1b1" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">PRODUCT IN DEVELOPMENT</text>
+</svg>
